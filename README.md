@@ -1,3 +1,12 @@
+> ⚠️ **Pinned mirror — not the original, and not actively developed here.**
+> A fork of [`qsys-plugins/PluginEncryptionTool`](https://github.com/qsys-plugins/PluginEncryptionTool),
+> kept only so [**`qsys-plugin-encryptor`**](https://github.com/NerdBase-by-Stark/qsys-plugin-encryptor)
+> can vendor QSC's tool from a source it controls (reproducible, checksum-verified builds).
+> This repo is archived / read-only. **For the actual app, go to
+> [qsys-plugin-encryptor](https://github.com/NerdBase-by-Stark/qsys-plugin-encryptor).**
+
+---
+
 # Plugin Encryption Tool
 
 This is a QSC tool you can use to encrypt your Q-SYS Plugin source code. This can ensure protection of any ids, keys, or intellectual property you might not want to be made publicly available.
